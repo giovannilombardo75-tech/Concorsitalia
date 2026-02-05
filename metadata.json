@@ -1,0 +1,7 @@
+{
+  "name": "ConcorsItalia",
+  "description": "Un motore di ricerca intelligente per concorsi pubblici italiani basato su IA, che aggrega informazioni da Gazzetta Ufficiale, InPA e portali regionali.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
